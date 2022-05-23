@@ -5,7 +5,7 @@ import Preferences from './components/Preferences'
 
 export default function App() {
   return (
-      <div className="App">
+      <div className="wrapper">
         <h1>Friend Space</h1>
         <Router>
           <Routes>
