@@ -2,10 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container">
+      <div className="container">
 
-      This is the friend space app
-    </div>
+        This is the friend space app
+      </div>
   );
 }
 
