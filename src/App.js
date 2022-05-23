@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Dashboard from './components/dashboard'
-import Preferences from './components/preferences'
+import Preferences from './components/Preferences'
 
 export default function App() {
   return (
